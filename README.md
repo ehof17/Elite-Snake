@@ -27,10 +27,13 @@ If I ever stop paying to run the server a legacy single player experience can be
 To set up the game locally:
 1. Clone the repository.
 2. In the root directory:
-3. Install dependencies: `npm install`
-4. Start the server and client: `npm start`
-5. Visit `localhost:3000` in your browser to play.
-6. As long as you are on the same wifi connection, the game is multiplayer!
+3. Install dependencies: `npm run install:all`
+4. Navigate to the snake directory `cd snake`
+5. Start the development server `npm run dev`
+6. Vite will output whi
+7. Start the server and client: `npm start`
+8. Visit `localhost:3000` in your browser to play.
+9. As long as you are on the same wifi connection, the game is multiplayer!
 
 ## Contributions and Feedback 💬
 Your contributions and feedback are welcome! They help us to continuously improve the game.
