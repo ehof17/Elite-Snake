@@ -30,10 +30,11 @@ To set up the game locally:
 3. Install dependencies: `npm run install:all`
 4. Navigate to the snake directory `cd snake`
 5. Start the development server `npm run dev`
-6. Vite will output whi
-7. Start the server and client: `npm start`
-8. Visit `localhost:3000` in your browser to play.
-9. As long as you are on the same wifi connection, the game is multiplayer!
+6. ![Alt Text](./gif/cd%20and%20run%20dev%20gif.gif)
+7. Vite will output whi
+8. Start the server and client: `npm start`
+9. Visit `localhost:3000` in your browser to play.
+10. As long as you are on the same wifi connection, the game is multiplayer!
 
 ## Contributions and Feedback 💬
 Your contributions and feedback are welcome! They help us to continuously improve the game.
