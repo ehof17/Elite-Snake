@@ -27,18 +27,19 @@ If I ever stop paying to run the server a legacy single player experience can be
 To set up the game locally:
 1. Clone the repository.
 2. In the root directory:
-3. Install dependencies: `npm run install:all`
+3. Install dependencies: `npm run install:all`  
     ![Alt Text](./gifs/npm%20install%20gif.gif)
 4. Navigate to the snake directory `cd snake`
 5. Start the development server `npm run dev`
+6. Vite will output the IP used for multiplayer. Copy it.  
     ![Alt Text](./gifs/cd%20and%20run%20dev%20gif.gif)
-6. Vite will output the IP used for multiplayer. Copy it.
+
 7. In your code editor, navigate to snakeserver and find the .env file.
-8. Change the `SERVER_IP` to the IP you copied
+8. Change the `SERVER_IP` to the IP you copied  
     ![Alt Text](./gifs/change%20file%20gif.gif)
-9. Stop the server and navigate back to the root directory
+9. Stop the server and navigate back to the root directory  
     ![Alt Text](./gifs/backtracking%20gif.gif)
-10. Start the server and client: `npm start`
+10. Start the server and client: `npm start`  
     ![Alt Text](./gifs/starting%20server%20gif.gif)   
 11. Click the link under "Network" to play.
 12. As long as you are on the same wifi connection, the game is multiplayer!
