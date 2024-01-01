@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start:snake": "cd snake && npm run dev",
+    "start:snakeserver": "cd snakeserver && npm run start",
+    "start": "concurrently \"npm run start:snake\" \"npm run start:snakeserver\"",
+    "install:all": "npm install && cd snake && npm install && cd ../snakeserver && npm install"
+  },
+  "dependencies": {
+    "concurrently": "^6.5.1",
+    "dotenv": "^16.3.1"
+  }
+} 
