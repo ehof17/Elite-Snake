@@ -17,10 +17,16 @@ This project is meant as a tribute to the original work and an exploration of it
 
 ## 🌟 Key Features
 - **Customizable Gameplay**: Choose your own snake names and colors.
+
+  ![Alt Text](./gifs/colorchange.gif)
 - **Leaderboard**: Compete to be at the top and track top players.
 - **Special Food Items**: 
   - **Reversal Food**: Adds a challenging twist by reversing your snake upon consumption.
+
+    ![Alt Text](./gifs/reversefood.gif)
   - **Portal Food**: Teleport from one point to another for strategic gameplay.
+ 
+    ![Alt Text](./gifs/portalfood.gif)
 - **Real-Time Multiplayer Competition**: Play against others in real-time with seamless interactions.
 
 ## 💻 Technologies Used
