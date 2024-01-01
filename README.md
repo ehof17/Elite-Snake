@@ -3,15 +3,14 @@
 ## 🚀 Introduction
 Elite Snake is not just your ordinary snake game. Built with React, Express, Node.js, Socket.io, and Vite, it's a vibrant, interactive experience with customizations, special food effects, and a competitive leaderboard. Join the fun at [Elite Snake](http://23.239.5.150:3000/).
 
-## Disclaimer
+## ⚠️ Disclaimer
 This project is inspired by and based upon Clément Mihailescu's Snake Game, as featured in his [YouTube tutorial](https://www.youtube.com/watch?v=7Rkib_fvowE) and available on [GitHub](https://github.com/clementmihailescu/Snake-Game-Reverse-LL-Tutorial). While the foundational concepts and initial codebase are derived from his work, this multiplayer edition introduces significant enhancements and features, including:
 
-- **Multiplayer Capability:** Transforming the classic single-player experience into a competitive multiplayer game.
-- **Separate Rendering Engine:** Optimized to handle the increased complexity of multiplayer gameplay.
-- **Customizable Player Names:** Allowing players to personalize their gaming experience.
-- **Leaderboard Integration:** Tracking and displaying high scores for competitive play.
+- **Multiplayer Capability** 
+- **Customization:** Allowing players to personalize their gaming experience with custom names and colors
+- **Modularity:** Split items into components, and added components like the title screen and leaderboard.
 - **Mobile Compatibility:** Ensuring a seamless experience across various devices.
-- **Innovative Game Mechanics:** Introduction of unique elements like portal foods, adding a new layer of strategy.
+- **New Game Mechanics:** Introduction of unique elements like portal foods, adding a new layer of strategy.
 
 This project is meant as a tribute to the original work and an exploration of its potential. It does not replicate the original game in its entirety but rather builds upon it to create a new, unique gaming experience.
 
