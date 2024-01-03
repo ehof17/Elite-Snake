@@ -38,7 +38,7 @@ This project is meant as a tribute to the original work and an exploration of it
 ## 🎮 Play Now
 Play online [here](http://23.239.5.150:3000/). Customize your snake, dodge, and teleport to become the leader!
 
-> **Note:** If I ever stop paying to run the server, a legacy single-player experience can be found [here](https://theehofman.github.io/snake2/). This version only has the core gameplay. There are no names, leaderboard, or changing color. Also, it doesn't work on mobile.
+> **Note:** If I ever stop paying to run the server, a legacy single-player experience can be found [here](https://theehofman.github.io/snake2/). This version only has the core gameplay. Since its not multiplayer, there are no names or leaderboard
 
 ## 🛠 Want to Make Changes?
 To set up the game locally:
